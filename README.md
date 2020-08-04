@@ -3,6 +3,8 @@
 A version of Instagram that connects to a mySQL database.
 
 MORE INFO ABOUT FILES:
+
+
 static/style - all css files
 
   - main.css --> styling for all pages
